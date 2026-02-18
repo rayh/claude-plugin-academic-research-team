@@ -14,7 +14,7 @@
       "agents/review/advocate-analyst.md"
     ],
     "commands": [
-      "commands/ask.md",
+      "commands/ask-paper.md",
       "commands/lit-review.md",
       "commands/confirm.md",
       "commands/explore-claim.md"
@@ -23,7 +23,7 @@
       "skills/lit-review/SKILL.md",
       "skills/confirm/SKILL.md",
       "skills/explore-claim/SKILL.md",
-      "skills/ask/SKILL.md"
+      "skills/ask-paper/SKILL.md"
     ]
   }
 }

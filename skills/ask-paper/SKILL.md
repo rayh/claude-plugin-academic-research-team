@@ -1,5 +1,5 @@
 ---
-name: ask
+name: ask-paper
 description: Answer a science question using academic sources. Optionally provide a DOI, arXiv ID, or paper title to ground the answer in a specific paper.
 disable-model-invocation: true
 argument-hint: "[question] or [question] --paper [DOI/arXiv ID/title]"
