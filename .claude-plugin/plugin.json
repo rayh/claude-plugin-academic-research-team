@@ -1,0 +1,22 @@
+{
+  "name": "claude-plugin-academic-research-team",
+  "version": "0.1.0",
+  "description": "Academic research agents for literature reviews, evidence evaluation, and field exploration. Includes adversarial analyst pairs, literature scouts with Semantic Scholar/arXiv/CrossRef integration, Zotero library management, and research supervision with academic integrity standards.",
+  "author": "rayh",
+  "homepage": "https://github.com/rayh/claude-plugin-academic-research-team",
+  "license": "MIT",
+  "components": {
+    "agents": [
+      "agents/orchestration/research-supervisor.md",
+      "agents/search/literature-scout.md",
+      "agents/search/librarian.md",
+      "agents/review/critical-analyst.md",
+      "agents/review/advocate-analyst.md"
+    ],
+    "skills": [
+      "skills/lit-review/SKILL.md",
+      "skills/confirm/SKILL.md",
+      "skills/explore-claim/SKILL.md"
+    ]
+  }
+}
