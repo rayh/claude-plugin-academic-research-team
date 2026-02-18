@@ -43,6 +43,7 @@ These two are designed to work in opposition — spawned together, they debate e
 | `/lit-review [topic]` | Full structured literature review. Searches databases, spawns adversarial analysts, synthesises with citations. |
 | `/confirm [claim]` | Evaluates evidence for and against a specific claim. Returns verdict with confidence level. |
 | `/explore-claim [topic]` | Maps an unfamiliar field. Finds key debates, seminal papers, and suggests precise research questions. |
+| `/ask [question]` | Quick, cited answer to a science question. Add `--paper DOI` to ground it in a specific paper. |
 
 ## Installation
 

@@ -16,7 +16,8 @@
     "skills": [
       "skills/lit-review/SKILL.md",
       "skills/confirm/SKILL.md",
-      "skills/explore-claim/SKILL.md"
+      "skills/explore-claim/SKILL.md",
+      "skills/ask/SKILL.md"
     ]
   }
 }
